@@ -51,6 +51,7 @@ tentativas = 3
 
 #chutel=[] ia usar mas nao vou mais
 #chutec=[]
+
 while tentativas > 0:
     print(f"\nVocê tem {tentativas} tentativas!")
 
